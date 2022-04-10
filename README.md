@@ -15,7 +15,7 @@
 
 2x2的树都不支持
 
-目前支持检测跳过Slimefun的植物, 不处理诸如异域花园植物之类的树苗
+目前支持跳过Slimefun的植物, 不处理诸如异域花园植物之类的树苗
 
 [![Release](https://img.shields.io/github/v/release/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/4o4E/DanceTree/total)](https://github.com/4o4E/DanceTree/releases)
