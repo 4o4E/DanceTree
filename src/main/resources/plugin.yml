@@ -1,0 +1,16 @@
+name: DanceTree
+version: "${version}"
+main: top.e404.dancetree.DanceTree
+api-version: 1.16
+authors: [ 404E ]
+softdepend:
+  - Slimefun
+permissions:
+  dancetree.admin:
+    default: op
+commands:
+  dancetree:
+    permission: dancetree.admin
+    aliases:
+      - dtree
+      - dt
