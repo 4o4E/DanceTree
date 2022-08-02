@@ -54,7 +54,7 @@ object CheckManager : Listener {
         // 云杉
         Material.SPRUCE_SAPLING to { it.world!!.generateTree(it, TreeType.REDWOOD) },
         // 丛林
-        Material.JUNGLE_SAPLING to { it.world!!.generateTree(it, TreeType.JUNGLE) },
+        Material.JUNGLE_SAPLING to { it.world!!.generateTree(it, TreeType.SMALL_JUNGLE) },
         /* 一个树苗也能催生
         // 深色橡木
         Material.DARK_OAK_SAPLING to { it.world!!.generateTree(it, TreeType.DARK_OAK) },*/
